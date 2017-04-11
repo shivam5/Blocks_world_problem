@@ -1,0 +1,14 @@
+Shivam Mittal
+2015CSB1032
+Lab 4
+================
+
+Compiling and running the program (in code/main.py)
+====================================================
+1. Go to folder code in terminal.
+2. python main.py <input_file> <output_file>
+
+Eg : python main.py input/1.txt output/1.txt
+
+
+

@@ -1,0 +1,29 @@
+28
+unstack 5 8
+stack 5 9
+unstack 8 7
+release 8
+unstack 7 6
+release 7
+pick 6
+stack 6 8
+unstack 5 9
+stack 5 7
+unstack 9 12
+release 9
+unstack 12 11
+release 12
+unstack 11 10
+stack 11 9
+unstack 10 3
+stack 10 12
+unstack 11 9
+stack 11 3
+pick 9
+stack 9 11
+unstack 10 12
+release 10
+pick 12
+stack 12 9
+pick 10
+stack 10 12
